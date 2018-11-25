@@ -9,7 +9,7 @@ $ ./configure --with-php-config=/path/to/php-config
 $ make && make install
 ```
 
-### Ini
+### Initial
 ```
 extension = snowflake.so
 
@@ -24,7 +24,7 @@ $work_node: An uniq ID should between 0 and 1023
 
 ```
 
-### Test
+### Demo 
 
 ```php
 <?php
