@@ -1,6 +1,6 @@
-#snowflake
+# snowflake
 
-An implementation of twitter's snowflake with C , build in php extension.
+An implementation of twitter's snowflake with C , build in php extension. 
 
 ### Install
 ```
