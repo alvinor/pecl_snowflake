@@ -4,8 +4,10 @@ An implementation of twitter's snowflake with C , build in php extension.
 
 ### Install
 ```
-$ /path/to/phpize
-$ ./configure --with-php-config=/path/to/php-config
+$ git clone https://github.com/alvinor/pecl_snowflake.git
+$ cd  pecl_snowflake
+$ phpize
+$ ./configure 
 $ make && make install
 ```
 
